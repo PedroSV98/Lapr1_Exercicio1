@@ -8,14 +8,8 @@
 2. Segundo item
 3. Terceiro item
 
-Teste   | Exemplo
+| Cabeçalho 1   | Cabeçalho 2   | Cabeçalho 3   |
+|---------------|---------------|---------------|
+| Linha 1, Coluna 1 | Linha 1, Coluna 2 | Linha 1, Coluna 3 |
+| Linha 2, Coluna 1 | Linha 2, Coluna 2 | Linha 2, Coluna 3 |
 
-------- | ------
-
-Teste 1 | Exemplo 1
-
-Teste 2 | Exemplo 2
-
-Teste 3 | Exemplo 3
-
-Teste 4 | Exemplo 4
