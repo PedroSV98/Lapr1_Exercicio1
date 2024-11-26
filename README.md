@@ -13,3 +13,8 @@
 | Linha 1, Coluna 1 | Linha 1, Coluna 2 | Linha 1, Coluna 3 |
 | Linha 2, Coluna 1 | Linha 2, Coluna 2 | Linha 2, Coluna 3 |
 
+| Cab 1 | Cab 2 | Cab 3 |
+|-------|-------|-------|
+| 1,1 | 2,1 | 3,1 |
+| 2,1 | 2,2 | 3,2 |
+
